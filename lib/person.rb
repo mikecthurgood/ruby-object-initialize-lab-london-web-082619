@@ -1,15 +1,15 @@
 class Person
   
-  def initialize(name)
-    @name = name
+  def initialize(n)
+    @name = n
   end
   
-  def name=(name)
-    @name = name
+  def name=(n)
+    @name = n
   end
   
   def name
-    @name = name
+    @name = n
   end
   
 end
